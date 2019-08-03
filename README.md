@@ -19,3 +19,12 @@ this application made of few components... u need to have all of them to run the
 object detection module uses a pre-trained cascade for openCV.
 You can find 
 more about cascades here (https://docs.opencv.org/3.4.1/d7/d8b/tutorial_py_face_detection.html)
+
+# Test
+Only run file names game.py and start the game..
+
+Via command line in windows, only run command
+python3 game.py
+
+Via terminal in linux
+./game.py

@@ -1,6 +1,5 @@
 # car-driving
-This a prototype for a simulation of car driving application helps disables to drive their cars with only the movement and the position of their faces.
-this a prototype..it needs alot of work to be better
+This a prototype for a simulation of a car driving application helps disables to drive their cars with only the movement and the position of their faces.
 
 
 # Structure
@@ -15,3 +14,8 @@ this application made of few components... u need to have all of them to run the
   1. python 3.x - you can find documentations here (https://docs.python.org/)
   2. openCV -     you can find documentation here (https://docs.opencv.org/)
   3. pyGame -     you can find documentation here (https://www.pygame.org/docs/)
+
+# Things to know
+object detection module uses a pre-trained cascade for openCV.
+You can find 
+more about cascades here (https://docs.opencv.org/3.4.1/d7/d8b/tutorial_py_face_detection.html)
